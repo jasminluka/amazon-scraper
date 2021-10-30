@@ -1,5 +1,5 @@
 {
-  "name": "api-scrapper",
+  "name": "amazon-scrapper",
   "version": "1.0.0",
   "description": "Scrape Amazon Api",
   "main": "app.js",
